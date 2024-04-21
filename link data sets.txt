@@ -1,5 +1,0 @@
-salarios data  Science -- https://www.kaggle.com/datasets/sanyacodes/salaries-in-data-science
-Netflix -- https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows
-Smartphones -- https://www.kaggle.com/datasets/nishantdeswal1810/smartphones
-Datos de ventas -- https://www.kaggle.com/datasets/dmitriiponomarev/customers-purchases-data
-
